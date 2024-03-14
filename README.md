@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...other code writers to help me develop a new celluar network software for my wireless phone company "WORLD MOBILE UNITED LLC";  
 - 📫 How to reach me ...email:wrightmarvin1987@gmail.com; cell:5612488950;
 - 😄 Pronouns: ...Him/He;
-- ⚡ Fun fact: ...I'm really smarter than people think;
+- ⚡ Fun fact: ...I'm really a lot smarter than people think;
 
 <!---
 JOVIESXWORLD1987/JOVIESXWORLD1987 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
