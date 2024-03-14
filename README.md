@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Learn everything there is to know about the software develeopment field;
 - 🌱 I’m currently learning ...html,js,java;
 - 💞️ I’m looking to collaborate on ...other code writers to help me develop a new celluar network software for my wireless phone company "WORLD MOBILE UNITED LLC";  
-- 📫 How to reach me ...email:wrightmarvin1987@gmail.com; cell:5612488950;
+- 📫 How to reach me ...email:wrightmarvin1987@gmail.com;
 - 😄 Pronouns: ...Him/He;
 - ⚡ Fun fact: ...I'm really a lot smarter than people think;
 
